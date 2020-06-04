@@ -2,6 +2,7 @@
   {
     "name" : "Uranus Backup",
     "link" : "",
-    "image" : ""
+    "image" : "",
+    "filename" : ".zip"
   }
   ]
